@@ -1,5 +1,6 @@
 # go-firestore
-A set of helper functions to communicate with Google Firestore
+A set of helper functions to communicate with Google Firestore.  
+This is not an SDK, it's just a few wrapper functions.
 
 ## Disclaimer
 
